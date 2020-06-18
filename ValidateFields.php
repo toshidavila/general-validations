@@ -1,5 +1,6 @@
 <?php
 // comment test
+// test2
 
 class ValidateFields
 {
